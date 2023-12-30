@@ -1,4 +1,4 @@
-# flutter_application_1
+# Shopping Cart Application
 
 A new Flutter project.
 
